@@ -1,0 +1,18 @@
+{
+  "current": {
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "padding": 24,
+          "logo": "shopify:\/\/shop_images\/logo.png",
+          "logo_width": 100,
+          "main_navigation": "main-menu"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
+}
