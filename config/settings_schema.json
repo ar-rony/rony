@@ -1,0 +1,54 @@
+[
+    {
+        "name": "theme_info",
+        "theme_name": "RNA",
+        "theme_version": "1.0.0",
+        "theme_author": "AR_RONY",
+        "theme_documentation_url": "https://www.github.com/ar-rony/rna/documentation",
+        "theme_support_email": "ardotrony@gmail.com"
+    },
+    {
+        "name": "Page Settings",
+        "settings": [
+            {
+                "type":"range",
+                "id": "page_width",
+                "label": "Page Width",
+                "default": 1200,
+                "min": 800,
+                "max": 1600,
+                "step": 10
+
+            }
+        ]
+    },
+    {
+        "name": "Colors",
+        "settings": [
+            {
+                "type":"color",
+                "id": "background_color",
+                "label": "Background Color",
+                "default": "#ffffff"
+            },
+            {
+                "type":"color",
+                "id": "text_color",
+                "label": "Text Color",
+                "default": "#111111"
+            },
+            {
+                "type":"color",
+                "id": "medium_text_color",
+                "label": "Medium Text Color",
+                "default": "#5e5e5e"
+            },
+            {
+                "type":"color",
+                "id": "border_color",
+                "label": "Border Color",
+                "default": "#000000"
+            }
+        ]
+    }
+]
